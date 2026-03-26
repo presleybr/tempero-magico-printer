@@ -1,3 +1,1 @@
-# Tempero Magico - Agente de Impressao
-
-Baixe o executavel na aba Releases.
+# Agente de Impressao Termica - Tempero Magico
